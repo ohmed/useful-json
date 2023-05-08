@@ -1,0 +1,80 @@
+/*
+GET /api/wa_countries 
+*/
+
+
+  "countries": [
+    {
+      "id": 1,
+      "name": "Benin",
+      "currency": "West African CFA franc",
+      "initials": "BJ",
+      "capital_city": "Porto-Novo",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 2,
+      "name": "Burkina Faso",
+      "currency": "West African CFA franc",
+      "initials": "BF",
+      "capital_city": "Ouagadougou",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 3,
+      "name": "Côte d'Ivoire",
+      "currency": "West African CFA franc",
+      "initials": "CI",
+      "capital_city": "Yamoussoukro",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 4,
+      "name": "Ghana",
+      "currency": "Ghanaian cedi",
+      "initials": "GH",
+      "capital_city": "Accra",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 5,
+      "name": "Mali",
+      "currency": "West African CFA franc",
+      "initials": "ML",
+      "capital_city": "Bamako",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 6,
+      "name": "Niger",
+      "currency": "West African CFA franc",
+      "initials": "NE",
+      "capital_city": "Niamey",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 7,
+      "name": "Nigeria",
+      "currency": "Nigerian naira",
+      "initials": "NG",
+      "capital_city": "Abuja",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 8,
+      "name": "Senegal",
+      "currency": "West African CFA franc",
+      "initials": "SN",
+      "capital_city": "Dakar",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    }
+  ]
+}
