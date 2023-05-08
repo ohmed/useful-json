@@ -1,4 +1,8 @@
-GET /api/gender
+/*
+GET /api/gender 
+*/
+
+
 
 {
    "genders": [
