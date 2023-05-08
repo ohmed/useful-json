@@ -10,3 +10,12 @@
         "date_created": "2023-01-01",
         "date_updated": "2023-05-08"
       },
+      {
+        "id": 2,
+        "name": "Uganda",
+        "currency": "Ugandan Shilling",
+        "initials": "UG",
+        "capital_city": "Kampala",
+        "date_created": "2023-01-01",
+        "date_updated": "2023-05-08"
+      },
