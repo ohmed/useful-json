@@ -1,3 +1,7 @@
+/*
+GET /api/gender_all 
+*/
+
 {
 	"genders": [
 	  {
