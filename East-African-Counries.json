@@ -1,1 +1,12 @@
 // GET /api/languages
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Kenya",
+        "currency": "Kenyan Shilling",
+        "initials": "KE",
+        "capital_city": "Nairobi",
+        "date_created": "2023-01-01",
+        "date_updated": "2023-05-08"
+      },
