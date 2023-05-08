@@ -1,4 +1,6 @@
-// GET /api/languages
+/*
+GET /api/languages 
+*/
 
 {
   "languages": [
