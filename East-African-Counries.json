@@ -19,3 +19,12 @@
         "date_created": "2023-01-01",
         "date_updated": "2023-05-08"
       },
+      {
+        "id": 3,
+        "name": "Tanzania",
+        "currency": "Tanzanian Shilling",
+        "initials": "TZ",
+        "capital_city": "Dodoma",
+        "date_created": "2023-01-01",
+        "date_updated": "2023-05-08"
+      },
