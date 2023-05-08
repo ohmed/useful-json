@@ -28,3 +28,14 @@
         "date_created": "2023-01-01",
         "date_updated": "2023-05-08"
       },
+      {
+        "id": 4,
+        "name": "Rwanda",
+        "currency": "Rwandan Franc",
+        "initials": "RW",
+        "capital_city": "Kigali",
+        "date_created": "2023-01-01",
+        "date_updated": "2023-05-08"
+      }
+    ]
+  }
