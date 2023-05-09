@@ -1,3 +1,140 @@
 {
   "airports": [
-    
+    {
+      "id": 1,
+      "name": "Cairo International Airport",
+      "city": "Cairo",
+      "iata_code": "CAI",
+      "icao_code": "HECA",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 2,
+      "name": "OR Tambo International Airport",
+      "city": "Johannesburg",
+      "iata_code": "JNB",
+      "icao_code": "FAOR",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 3,
+      "name": "Murtala Muhammed International Airport",
+      "city": "Lagos",
+      "iata_code": "LOS",
+      "icao_code": "DNMM",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 4,
+      "name": "Cape Town International Airport",
+      "city": "Cape Town",
+      "iata_code": "CPT",
+      "icao_code": "FACT",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 5,
+      "name": "Entebbe International Airport",
+      "city": "Kampala",
+      "iata_code": "EBB",
+      "icao_code": "HUEN",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 6,
+      "name": "Houari Boumediene Airport",
+      "city": "Algiers",
+      "iata_code": "ALG",
+      "icao_code": "DAAG",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 7,
+      "name": "Mohammed V International Airport",
+      "city": "Casablanca",
+      "iata_code": "CMN",
+      "icao_code": "GMMN",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 8,
+      "name": "Jomo Kenyatta International Airport",
+      "city": "Nairobi",
+      "iata_code": "NBO",
+      "icao_code": "HKJK",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 9,
+      "name": "Kotoka International Airport",
+      "city": "Accra",
+      "iata_code": "ACC",
+      "icao_code": "DGAA",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 10,
+      "name": "Port Elizabeth International Airport",
+      "city": "Port Elizabeth",
+      "iata_code": "PLZ",
+      "icao_code": "FAPE",
+      "date_created": "2023-01-01",
+      "dateupdated": "2023-05-08"
+},
+{
+  "id": 11,
+  "name": "Dakar Blaise Diagne International Airport",
+  "city": "Dakar",
+  "iata_code": "DSS",
+  "icao_code": "GOBD",
+  "date_created": "2023-01-01",
+  "date_updated": "2023-05-08"
+},
+{
+  "id": 12,
+  "name": "Addis Ababa Bole International Airport",
+  "city": "Addis Ababa",
+  "iata_code": "ADD",
+  "icao_code": "HAAB",
+  "date_created": "2023-01-01",
+  "date_updated": "2023-05-08"
+},
+{
+  "id": 13,
+  "name": "Tunis-Carthage International Airport",
+  "city": "Tunis",
+  "iata_code": "TUN",
+  "icao_code": "DTTA",
+  "date_created": "2023-01-01",
+  "date_updated": "2023-05-08"
+},
+{
+  "id": 14,
+  "name": "O. R. Tambo International Airport",
+  "city": "Johannesburg",
+  "iata_code": "JNB",
+  "icao_code": "FAOR",
+  "date_created": "2023-01-01",
+  "date_updated": "2023-05-08"
+},
+{
+  "id": 15,
+  "name": "Lusaka Kenneth Kaunda International Airport",
+  "city": "Lusaka",
+  "iata_code": "LUN",
+  "icao_code": "FLKK",
+  "date_created": "2023-01-01",
+  "date_updated": "2023-05-08"
+}
+
+]
+}
