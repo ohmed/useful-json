@@ -89,52 +89,51 @@
       "icao_code": "FAPE",
       "date_created": "2023-01-01",
       "dateupdated": "2023-05-08"
-},
-{
-  "id": 11,
-  "name": "Dakar Blaise Diagne International Airport",
-  "city": "Dakar",
-  "iata_code": "DSS",
-  "icao_code": "GOBD",
-  "date_created": "2023-01-01",
-  "date_updated": "2023-05-08"
-},
-{
-  "id": 12,
-  "name": "Addis Ababa Bole International Airport",
-  "city": "Addis Ababa",
-  "iata_code": "ADD",
-  "icao_code": "HAAB",
-  "date_created": "2023-01-01",
-  "date_updated": "2023-05-08"
-},
-{
-  "id": 13,
-  "name": "Tunis-Carthage International Airport",
-  "city": "Tunis",
-  "iata_code": "TUN",
-  "icao_code": "DTTA",
-  "date_created": "2023-01-01",
-  "date_updated": "2023-05-08"
-},
-{
-  "id": 14,
-  "name": "O. R. Tambo International Airport",
-  "city": "Johannesburg",
-  "iata_code": "JNB",
-  "icao_code": "FAOR",
-  "date_created": "2023-01-01",
-  "date_updated": "2023-05-08"
-},
-{
-  "id": 15,
-  "name": "Lusaka Kenneth Kaunda International Airport",
-  "city": "Lusaka",
-  "iata_code": "LUN",
-  "icao_code": "FLKK",
-  "date_created": "2023-01-01",
-  "date_updated": "2023-05-08"
-}
-
+    },
+    {
+      "id": 11,
+      "name": "Dakar Blaise Diagne International Airport",
+      "city": "Dakar",
+      "iata_code": "DSS",
+      "icao_code": "GOBD",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 12,
+      "name": "Addis Ababa Bole International Airport",
+      "city": "Addis Ababa",
+      "iata_code": "ADD",
+      "icao_code": "HAAB",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 13,
+      "name": "Tunis-Carthage International Airport",
+      "city": "Tunis",
+      "iata_code": "TUN",
+      "icao_code": "DTTA",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 14,
+      "name": "O. R. Tambo International Airport",
+      "city": "Johannesburg",
+      "iata_code": "JNB",
+      "icao_code": "FAOR",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    },
+    {
+      "id": 15,
+      "name": "Lusaka Kenneth Kaunda International Airport",
+      "city": "Lusaka",
+      "iata_code": "LUN",
+      "icao_code": "FLKK",
+      "date_created": "2023-01-01",
+      "date_updated": "2023-05-08"
+    }
 ]
 }
