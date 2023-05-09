@@ -2,8 +2,6 @@
 GET /api/gender 
 */
 
-
-
 {
    "genders": [
        {"id": 1, "name": "Male"},
