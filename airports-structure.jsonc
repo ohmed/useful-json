@@ -1,1 +1,55 @@
-
+{
+   "metadata": {
+      "created": "2023-01-01",
+      "updated": "2023-05-08"
+   },
+   "data": [
+      {
+         "name": "Airport Name",
+         "location": {
+            "latitude": 0.0,
+            "longitude": 0.0
+         },
+         "iata_code": "AAA",
+         "icao_code": "AAAA",
+         "country": "Country Name",
+         "city": "City Name",
+         "timezone": "UTC+X",
+         "terminal_info": [
+            {
+               "name": "Terminal Name",
+               "boarding_gates": [
+                  {
+                     "name": "Boarding Gate Name",
+                     "boarding_time": "HH:MM"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "Airport Name",
+         "location": {
+            "latitude": 0.0,
+            "longitude": 0.0
+         },
+         "iata_code": "BBB",
+         "icao_code": "BBBB",
+         "country": "Country Name",
+         "city": "City Name",
+         "timezone": "UTC+X",
+         "terminal_info": [
+            {
+               "name": "Terminal Name",
+               "boarding_gates": [
+                  {
+                     "name": "Boarding Gate Name",
+                     "boarding_time": "HH:MM"
+                  }
+               ]
+            }
+         ]
+      },
+      ...
+   ]
+}
