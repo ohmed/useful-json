@@ -10,3 +10,16 @@
 
 
 // structure 2
+{
+  "baseCurrency": "USD",
+  "rates": {
+    "EUR": 0.85,
+    "GBP": 0.73,
+    "JPY": 109.26,
+    "CAD": 1.21,
+    "AUD": 1.32,
+    ...
+  },
+  "lastUpdated": "2023-05-10T08:30:00Z",
+  "source": "Exchange Rate Provider"
+}
