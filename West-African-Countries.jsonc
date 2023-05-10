@@ -1,7 +1,7 @@
 /*
 GET /api/wa_countries 
 */
-
+{
 
   "countries": [
     {

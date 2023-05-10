@@ -1,39 +1,47 @@
-//structure 1
-︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎︎ ︎
-{
-  "base_currency": "USD",
-  "target_currency": "EUR",
-  "exchange_rate": 0.85,
-  "last_updated": "2023-05-10 14:30:00",
-  "source": "European Central Bank"
+︎{
+  "structure":[
+    {
+
+      //structure 1
+      "base_currency": "USD",
+      "target_currency": "EUR",
+      "exchange_rate": 0.85,
+      "last_updated": "2023-05-10 14:30:00",
+      "source": "European Central Bank"
+
+      //"base_currency": This key has a value of "USD", indicating that the base currency is US Dollars.
+      //"target_currency": This key has a value of "EUR", indicating that the target currency is Euros.
+      //"exchange_rate": This key has a value of 0.85, indicating that 1 USD is currently worth 0.85 EUR.
+      //"last_updated": This key has a value of "2023-05-10T12:00:00Z", indicating that the exchange rate was last updated on May 10, 2023 at 12:00:00 UTC.
+      //"source": This key has a value of "ExchangeRateAPI", indicating that the source of the exchange rate data is a service called ExchangeRateAPI.
+    },
+    
+    
+    {
+      // structure 2
+      "baseCurrency": "USD",
+      "rates": {
+        "EUR": 0.85,
+        "GBP": 0.73,
+        "JPY": 109.26,
+        "CAD": 1.21,
+        "AUD": 1.32,
+        ...
+      },
+      "lastUpdated": "2023-05-10T08:30:00Z",
+      "source": "Exchange Rate Provider"
+
+        //Explanation of the structure:
+
+        //"baseCurrency": Represents the base currency against which all other currencies are quoted.
+        //"rates": Contains a mapping of target currencies and their corresponding exchange rates.
+        //"lastUpdated": Indicates the date and time when the exchange rates were last updated.
+        //"source": Specifies the source or provider of the exchange rate data.
+
+        //The "rates" section can include any number of currency exchange rates, with each target currency as a key and its corresponding exchange rate as the value. 
+        //Developers can use this JSON structure to retrieve the latest exchange rates for different currencies and perform currency conversions in their applications.
+    
+    }
+     
+  ]
 }
-//     "base_currency": This key has a value of "USD", indicating that the base currency is US Dollars.
-//     "target_currency": This key has a value of "EUR", indicating that the target currency is Euros.
-//     "exchange_rate": This key has a value of 0.85, indicating that 1 USD is currently worth 0.85 EUR.
-//     "last_updated": This key has a value of "2023-05-10T12:00:00Z", indicating that the exchange rate was last updated on May 10, 2023 at 12:00:00 UTC.
-//     "source": This key has a value of "ExchangeRateAPI", indicating that the source of the exchange rate data is a service called ExchangeRateAPI.
-
-
-// structure 2
-{
-  "baseCurrency": "USD",
-  "rates": {
-    "EUR": 0.85,
-    "GBP": 0.73,
-    "JPY": 109.26,
-    "CAD": 1.21,
-    "AUD": 1.32,
-    ...
-  },
-  "lastUpdated": "2023-05-10T08:30:00Z",
-  "source": "Exchange Rate Provider"
-}
-  //Explanation of the structure:
-
-//     "baseCurrency": Represents the base currency against which all other currencies are quoted.
-//     "rates": Contains a mapping of target currencies and their corresponding exchange rates.
-//     "lastUpdated": Indicates the date and time when the exchange rates were last updated.
-//     "source": Specifies the source or provider of the exchange rate data.
-
-//      The "rates" section can include any number of currency exchange rates, with each target currency as a key and its corresponding exchange rate as the value. 
-//     Developers can use this JSON structure to retrieve the latest exchange rates for different currencies and perform currency conversions in their applications.
