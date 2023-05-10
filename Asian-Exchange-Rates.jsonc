@@ -256,6 +256,7 @@
         },
         {
             "country":"Uzbekistan",
+            //wtf? this name has a single quote in it. How do I do this?
             "currency":"Uzbekistani soʻm",
             "code":"UZS",
             "rate":10720.00
