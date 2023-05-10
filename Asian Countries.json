@@ -180,3 +180,104 @@
         "created_at": "2017-02-30",
         "updated_at": "2023-01-12"
         },
+        {
+            "id": 21,
+            "name": "Kyrgyzstan",
+            "capital": "Bishkek",
+            "language": "Kyrgyz, Russian",
+            "currency":"Kyrgyzstani som",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-02-20"
+            },
+            {
+              "id": 22,
+              "name": "Laos",
+              "capital": "Vientiane",
+              "language": "Lao",
+              "currency": "Lao kip",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-03-29"
+            },
+            {
+              "id": 23,
+              "name": "Lebanon",
+              "capital": "Beirut",
+              "language": "Arabic",
+              "currency": "Lebanese pound",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-05-04"
+            },
+            {
+              "id": 24,
+              "name": "Malaysia",
+              "capital": "Kuala Lumpur",
+              "language": "Malay",
+              "currency": "Malaysian ringgit",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-01-08"
+            },
+            {
+              "id": 25,
+              "name": "Maldives",
+              "capital": "Male",
+              "language": "Dhivehi",
+              "currency": "Maldivian rufiyaa",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-02-18"
+            },
+            {
+              "id": 26,
+              "name": "Mongolia",
+              "capital": "Ulaanbaatar",
+              "language": "Mongolian",
+              "currency": "Mongolian tögrög",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-03-26"
+            },
+            {
+              "id": 27,
+              "name": "Myanmar",
+              "capital": "Naypyidaw",
+              "language": "Burmese",
+              "currency": "Myanmar kyat",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-04-27"
+            },
+            {
+              "id": 28,
+              "name": "Nepal",
+              "capital": "Kathmandu",
+              "language": "Nepali",
+              "currency": "Nepalese rupee",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-05-03"
+            },
+            {
+              "id": 29,
+              "name": "North Korea",
+              "capital": "Pyongyang",
+              "language": "Korean",
+              "currency": "North Korean won",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-01-05"
+            },
+            {
+              "id": 30,
+              "name": "Oman",
+              "capital": "Muscat",
+              "language": "Arabic",
+              "currency": "Omani rial",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-02-22"
+            },
+            {
+              "id": 31,
+              "name": "Pakistan",
+              "capital": "Islamabad",
+              "language": "Urdu, English",
+              "currency": "Pakistani rupee",
+              "created_at": "2017-02-30",
+              "updated_at": "2023-03-22"
+            },
+            
+            
