@@ -1,2 +1,12 @@
 //structure 1
 ︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎︎ ︎
+{
+  "base_currency": "USD",
+  "target_currency": "EUR",
+  "exchange_rate": 0.85,
+  "last_updated": "2023-05-10 14:30:00",
+  "source": "European Central Bank"
+}
+
+
+// structure 2
