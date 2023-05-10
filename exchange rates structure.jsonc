@@ -23,3 +23,12 @@
   "lastUpdated": "2023-05-10T08:30:00Z",
   "source": "Exchange Rate Provider"
 }
+  //Explanation of the structure:
+
+//     "baseCurrency": Represents the base currency against which all other currencies are quoted.
+//     "rates": Contains a mapping of target currencies and their corresponding exchange rates.
+//     "lastUpdated": Indicates the date and time when the exchange rates were last updated.
+//     "source": Specifies the source or provider of the exchange rate data.
+
+//      The "rates" section can include any number of currency exchange rates, with each target currency as a key and its corresponding exchange rate as the value. 
+//     Developers can use this JSON structure to retrieve the latest exchange rates for different currencies and perform currency conversions in their applications.
