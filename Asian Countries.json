@@ -1,0 +1,92 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "language": "Pashto, Dari",
+        "currency": "Afghan afghani",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-01-05"
+      },
+      {
+        "id": 2,
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "language": "Armenian",
+        "currency": "Armenian dram",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-02-12"
+      },
+      {
+        "id": 3,
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "language": "Azerbaijani",
+        "currency": "Azerbaijani manat",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-03-18"
+      },
+      {
+        "id": 4,
+        "name": "Bahrain",
+        "capital": "Manama",
+        "language": "Arabic",
+        "currency": "Bahraini dinar",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-04-24"
+      },
+      {
+        "id": 5,
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "language": "Bengali",
+        "currency": "Bangladeshi taka",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-05-10"
+      },
+      {
+        "id": 6,
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "language": "Dzongkha",
+        "currency": "Bhutanese ngultrum",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-01-15"
+      },
+      {
+        "id": 7,
+        "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "language": "Malay",
+        "currency": "Brunei dollar",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-02-20"
+      },
+      {
+        "id": 8,
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "language": "Khmer",
+        "currency": "Cambodian riel",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-03-27"
+      },
+      {
+        "id": 9,
+        "name": "China",
+        "capital": "Beijing",
+        "language": "Standard Chinese",
+        "currency": "Chinese yuan",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-05-02"
+      },
+      {
+        "id": 10,
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "language": "Greek, Turkish",
+        "currency": "Euro",
+        "created_at": "2017-02-30",
+        "updated_at": "2023-01-09"
+      },
