@@ -1,0 +1,277 @@
+{
+
+    "continent":"Asia",
+    "currencies":[
+        {
+            "country":"Afghanistan",
+            "currency":"Afghan afghani",
+            "code":"AFN",
+            "rate":86.37
+        },
+        {
+            "country":"Bahrain",
+            "currency":"Bahraini dinar",
+            "code":"BHD",
+            "rate":0.38
+        },
+        {
+            "country":"Bangladesh",
+            "currency":"Bangladeshi taka",
+            "code":"BDT",
+            "rate":84.88
+        },
+        {
+            "country":"Bhutan",
+            "currency":"Bhutanese ngultrum",
+            "code":"BTN",
+            "rate":74.62
+        },
+        {
+            "country":"Brunei",
+            "currency":"Brunei dollar",
+            "code":"BND",
+            "rate":1.34
+        },
+        {
+            "country":"Cambodia",
+            "currency":"Cambodian riel",
+            "code":"KHR",
+            "rate":4078.24
+        },
+        {
+            "country":"China",
+            "currency":"Chinese yuan",
+            "code":"CNY",
+            "rate":6.43
+        },
+        {
+            "country":"India",
+            "currency":"Indian rupee",
+            "code":"INR",
+            "rate":74.12
+        },
+        {
+            "country":"Indonesia",
+            "currency":"Indonesian rupiah",
+            "code":"IDR",
+            "rate":14230.00
+        },
+        {
+            "country":"Iran",
+            "currency":"Iranian rial",
+            "code":"IRR",
+            "rate":42155.00
+        },
+        {
+            "country":"Iraq",
+            "currency":"Iraqi dinar",
+            "code":"IQD",
+            "rate":1463.80
+        },
+        {
+            "country":"Israel",
+            "currency":"Israeli new shekel",
+            "code":"ILS",
+            "rate":3.27
+        },
+        {
+            "country":"Japan",
+            "currency":"Japanese yen",
+            "code":"JPY",
+            "rate":109.25
+        },
+        {
+            "country":"Jordan",
+            "currency":"Jordanian dinar",
+            "code":"JOD",
+            "rate":0.71
+        },
+        {
+            "country":"Kazakhstan",
+            "currency":"Kazakhstani tenge",
+            "code":"KZT",
+            "rate":429.59
+        },
+        {
+            "country":"Kuwait",
+            "currency":"Kuwaiti dinar",
+            "code":"KWD",
+            "rate":0.30
+        },
+        {
+            "country":"Kyrgyzstan",
+            "currency":"Kyrgyzstani som",
+            "code":"KGS",
+            "rate":84.45
+        },
+        {
+            "country":"Laos",
+            "currency":"Lao kip",
+            "code":"LAK",
+            "rate":9565.00
+        },
+        {
+            "country":"Lebanon",
+            "currency":"Lebanese pound",
+            "code":"LBP",
+            "rate":1527.56
+        },
+        {
+            "country":"Malaysia",
+            "currency":"Malaysian ringgit",
+            "code":"MYR",
+            "rate":4.17
+        },
+        {
+            "country":"Maldives",
+            "currency":"Maldivian rufiyaa",
+            "code":"MVR",
+            "rate":15.42
+        },
+        {
+            "country":"Mongolia",
+            "currency":"Mongolian tögrög",
+            "code":"MNT",
+            "rate":2875.00
+        },
+        {
+            "country":"Myanmar",
+            "currency":"Myanmar kyat",
+            "code":"MMK",
+            "rate":1599.00
+        },
+        {
+            "country":"Nepal",
+            "currency":"Nepalese rupee",
+            "code":"NPR",
+            "rate":118.07
+        },
+        {
+            "country":"North Korea",
+            "currency":"North Korean won",
+            "code":"KPW",
+            "rate":900.00
+        },
+        {
+            "country":"Oman",
+            "currency":"Omani rial",
+            "code":"OMR",
+            "rate":0.39
+        },
+        {
+            "country":"Pakistan",
+            "currency":"Pakistani rupee",
+            "code":"PKR",
+            "rate":174.15
+        },
+        {
+            "country":"Palestine",
+            "currency":"Palestinian pound",
+            "code":"PSP",
+            "rate":4.48
+        },
+        {
+            "country":"Philippines",
+            "currency":"Philippine peso",
+            "code":"PHP",
+            "rate":50.27
+        },
+        {
+            "country":"Qatar",
+            "currency":"Qatari riyal",
+            "code":"QAR",
+            "rate":3.64
+        },
+        {
+            "country":"Russia",
+            "currency":"Russian ruble",
+            "code":"RUB",
+            "rate":73.84
+        },
+        {
+            "country":"Saudi Arabia",
+            "currency":"Saudi riyal",
+            "code":"SAR",
+            "rate":3.75
+        },
+        {
+            "country":"Singapore",
+            "currency":"Singapore dollar",
+            "code":"SGD",
+            "rate":1.33
+        },
+        {
+            "country":"South Korea",
+            "currency":"South Korean won",
+            "code":"KRW",
+            "rate":1144.18
+        },
+        {
+            "country":"Sri Lanka",
+            "currency":"Sri Lankan rupee",
+            "code":"LKR",
+            "rate":201.24
+        },
+        {
+            "country":"Syria",
+            "currency":"Syrian pound",
+            "code":"SYP",
+            "rate":2413.08
+        },
+        {
+            "country":"Taiwan",
+            "currency":"New Taiwan dollar",
+            "code":"TWD",
+            "rate":27.85
+        },
+        {
+            "country":"Thailand",
+            "currency":"Thai baht",
+            "code":"THB",
+            "rate":31.47
+        },
+        {
+            "country":"Timor-Leste (East Timor)",
+            "currency":"United States dollar",
+            "code":"USD",
+            "rate":1.00
+        },
+        {
+            "country":"Turkey",
+            "currency":"Turkish lira",
+            "code":"TRY",
+            "rate":10.00
+        },
+        {
+            "country":"Turkmenistan",
+            "currency":"Turkmenistan manat",
+            "code":"TMT",
+            "rate":3.50
+        },
+        {
+            "country":"United Arab Emirates",
+            "currency":"United Arab Emirates dirham",
+            "code":"AED",
+            "rate":3.67
+        },
+        {
+            "country":"Uzbekistan",
+            "currency":"Uzbekistani soʻm",
+            "code":"UZS",
+            "rate":10720.00
+        },
+        {
+            "country":"Vietnam",
+            "currency":"Vietnamese đồng",
+            "code":"VND",
+            "rate":22910.91
+        },
+        {
+            "country":"Yemen",
+            "currency":"Yemeni rial",
+            "code":"YER",
+            "rate":250.37
+        }
+    ]
+
+}

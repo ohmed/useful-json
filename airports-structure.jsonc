@@ -1,7 +1,8 @@
 {
-   "metadata": {
-      "created": "2023-01-01",
-      "updated": "2023-05-08"
+   "airportsData": {
+      "created": "2022-01-01",
+      "updatedDate": "2023-05-08",
+      "updatedTime":"01:35:44"
    },
    "data": [
       {
@@ -49,7 +50,6 @@
                ]
             }
          ]
-      },
-      ...
+      }
    ]
 }
