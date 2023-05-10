@@ -7,6 +7,11 @@
   "last_updated": "2023-05-10 14:30:00",
   "source": "European Central Bank"
 }
+//     "base_currency": This key has a value of "USD", indicating that the base currency is US Dollars.
+//     "target_currency": This key has a value of "EUR", indicating that the target currency is Euros.
+//     "exchange_rate": This key has a value of 0.85, indicating that 1 USD is currently worth 0.85 EUR.
+//     "last_updated": This key has a value of "2023-05-10T12:00:00Z", indicating that the exchange rate was last updated on May 10, 2023 at 12:00:00 UTC.
+//     "source": This key has a value of "ExchangeRateAPI", indicating that the source of the exchange rate data is a service called ExchangeRateAPI.
 
 
 // structure 2
