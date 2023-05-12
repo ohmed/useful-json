@@ -272,6 +272,12 @@
             "currency":"Yemeni rial",
             "code":"YER",
             "rate":250.37
+        },
+        {
+            "country":"00",
+            "currency":"00",
+            "code":"00",
+            "rate":"00"
         }
     ]
 
