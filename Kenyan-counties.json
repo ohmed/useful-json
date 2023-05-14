@@ -95,4 +95,104 @@
         "code": "014",
         "name": "Embu",
         "created_at": "2013-03-17",
-        "updated_at":
+        "updated_at":"2023-03-14"
+    },
+    {
+    "id": 15,
+    "code": "015",
+    "name": "Kitui",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 16,
+    "code": "016",
+    "name": "Machakos",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 17,
+    "code": "017",
+    "name": "Makueni",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 18,
+    "code": "018",
+    "name": "Nyandarua",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 19,
+    "code": "019",
+    "name": "Nyeri",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 20,
+    "code": "020",
+    "name": "Kirinyaga",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 21,
+    "code": "021",
+    "name": "Murang'a",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 22,
+    "code": "022",
+    "name": "Kiambu",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 23,
+    "code": "023",
+    "name": "Turkana",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 24,
+    "code": "024",
+    "name": "West Pokot",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 25,
+    "code": "025",
+    "name": "Samburu",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 26,
+    "code": "026",
+    "name": "Trans Nzoia",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 27,
+    "code": "027",
+    "name": "Uasin Gishu",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
+    "id": 28,
+    "code": "028",
+    "name": "Elgeyo-Marakwet",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+    },
+    {
