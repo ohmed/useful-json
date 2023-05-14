@@ -1,12 +1,22 @@
-/*
-GET /api/gender 
-*/
+[
 
-{
-   "genders": [
-       {"id": 1, "name": "Male"},
-       {"id": 2, "name": "Female"},
-       {"id": 3, "name": "Non-binary"},
-       {"id": 4, "name": "Prefer not to say"}
-   ]
-}
+    {
+        "id":1,
+        "name":"Male",
+        "created_at":"2013-02-11",
+        "updated_at":"2023-05-14"
+    },
+    {
+        "id":2,
+        "name":"Female",
+        "created_at":"2013-02-11",
+        "updated_at":"2023-05-14"
+    },
+    {
+        "id":3,
+        "name":"Prefer not to say",
+        "created_at":"2013-02-11",
+        "updated_at":"2023-05-14"
+    }
+
+]
