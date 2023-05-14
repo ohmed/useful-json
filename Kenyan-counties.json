@@ -296,4 +296,36 @@
     "id": 43,
     "code": "043",
     "name": "Homa Bay",
-    "created_at":
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 44,
+    "code": "044",
+    "name": "Migori",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 45,
+    "code": "045",
+    "name": "Kisii",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 46,
+    "code": "046",
+    "name": "Nyamira",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 47,
+    "code": "047",
+    "name": "Nairobi City",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+}
+
+]
