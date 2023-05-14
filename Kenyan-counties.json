@@ -195,4 +195,105 @@
     "created_at": "2013-03-17",
     "updated_at": "2023-03-14"
     },
-    {
+    { "id": 29,
+    "code": "029",
+    "name": "Nandi",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 30,
+    "code": "030",
+    "name": "Baringo",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 31,
+    "code": "031",
+    "name": "Laikipia",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 32,
+    "code": "032",
+    "name": "Nakuru",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 33,
+    "code": "033",
+    "name": "Narok",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 34,
+    "code": "034",
+    "name": "Kajiado",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 35,
+    "code": "035",
+    "name": "Kericho",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 36,
+    "code": "036",
+    "name": "Bomet",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 37,
+    "code": "037",
+    "name": "Kakamega",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 38,
+    "code": "038",
+    "name": "Vihiga",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 39,
+    "code": "039",
+    "name": "Bungoma",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 40,
+    "code": "040",
+    "name": "Busia",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 41,
+    "code": "041",
+    "name": "Siaya",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 42,
+    "code": "042",
+    "name": "Kisumu",
+    "created_at": "2013-03-17",
+    "updated_at": "2023-03-14"
+},
+{
+    "id": 43,
+    "code": "043",
+    "name": "Homa Bay",
+    "created_at":
