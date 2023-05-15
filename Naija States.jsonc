@@ -1,0 +1,93 @@
+{
+    "states": [
+      {
+        "id": 1,
+        "name": "Abia",
+        "hq": "Umuahia",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 2,
+        "name": "Adamawa",
+        "hq": "Yola",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 3,
+        "name": "Akwa Ibom",
+        "hq": "Uyo",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 4,
+        "name": "Anambra",
+        "hq": "Awka",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 5,
+        "name": "Bauchi",
+        "hq": "Bauchi",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 6,
+        "name": "Bayelsa",
+        "hq": "Yenagoa",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 7,
+        "name": "Benue",
+        "hq": "Makurdi",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 8,
+        "name": "Borno",
+        "hq": "Maiduguri",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 9,
+        "name": "Cross River",
+        "hq": "Calabar",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 10,
+        "name": "Delta",
+        "hq": "Asaba",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 11,
+        "name": "Ebonyi",
+        "hq": "Abakaliki",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 12,
+        "name": "Edo",
+        "hq": "Benin City",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
+      {
+        "id": 13,
+        "name": "Ekiti",
+        "hq": "Ado-Ekiti",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+      },
