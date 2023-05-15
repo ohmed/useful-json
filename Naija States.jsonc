@@ -190,4 +190,66 @@
         "date_updated": "2023-05-16"
         },
         {
-        "id
+        "id: 28,
+        "name": "Ondo",
+        "hq": "Akure",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 29,
+        "name": "Osun",
+        "hq": "Osogbo",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 30,
+        "name": "Oyo",
+        "hq": "Ibadan",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 31,
+        "name": "Plateau",
+        "hq": "Jos",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 32,
+        "name": "Rivers",
+        "hq": "Port Harcourt",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 33,
+        "name": "Sokoto",
+        "hq": "Sokoto",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 34,
+        "name": "Taraba",
+        "hq": "Jalingo",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 35,
+        "name": "Yobe",
+        "hq": "Damaturu",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 36,
+        "name": "Zamfara",
+        "hq": "Gusau",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        }
+        ]
