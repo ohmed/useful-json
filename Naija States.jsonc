@@ -91,3 +91,103 @@
         "date_created": "2019-04-13",
         "date_updated": "2023-05-16"
       },
+      {
+        "id": 14,
+        "name": "Enugu",
+        "hq": "Enugu",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 15,
+        "name": "Gombe",
+        "hq": "Gombe",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 16,
+        "name": "Imo",
+        "hq": "Owerri",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 17,
+        "name": "Jigawa",
+        "hq": "Dutse",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 18,
+        "name": "Kaduna",
+        "hq": "Kaduna",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 19,
+        "name": "Kano",
+        "hq": "Kano",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 20,
+        "name": "Katsina",
+        "hq": "Katsina",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 21,
+        "name": "Kebbi",
+        "hq": "Birnin Kebbi",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 22,
+        "name": "Kogi",
+        "hq": "Lokoja",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 23,
+        "name": "Kwara",
+        "hq": "Ilorin",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 24,
+        "name": "Lagos",
+        "hq": "Ikeja",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 25,
+        "name": "Nasarawa",
+        "hq": "Lafia",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 26,
+        "name": "Niger",
+        "hq": "Minna",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id": 27,
+        "name": "Ogun",
+        "hq": "Abeokuta",
+        "date_created": "2019-04-13",
+        "date_updated": "2023-05-16"
+        },
+        {
+        "id
