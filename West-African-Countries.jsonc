@@ -9,6 +9,7 @@ GET /api/west-african_countries
       "id": 1,
       "name": "Benin",
       "currency": "West African CFA franc",
+    //I really have no other way of naming this, apologies
       "initials": "BJ",
       "capital_city": "Porto-Novo",
       "date_created": "2023-01-01",
