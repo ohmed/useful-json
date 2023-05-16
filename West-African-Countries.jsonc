@@ -1,6 +1,7 @@
 /*
 GET /api/west-african_countries 
 */
+
 {
 
   "countries": [
