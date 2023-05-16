@@ -42,8 +42,7 @@
          "terminal_info":[
             {
                "name": "Terminal Name",
-               "boarding_gates": 
-               [
+               "boarding_gates": [
                   {
                      "name": "Boarding Gate Name",
                      "boarding_time": "HH:MM"
