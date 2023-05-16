@@ -39,7 +39,8 @@
          "country": "Country Name",
          "city": "City Name",
          "timezone": "UTC+X",
-         "terminal_info": [
+         "terminal_info":
+         [
             {
                "name": "Terminal Name",
                "boarding_gates": [
