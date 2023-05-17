@@ -8,3 +8,5 @@ state_data = {
     'date_created': '1978-07-01',
     'date_updated': '2018-07-02',
 }
+# Define a list to store all states
+states = []
