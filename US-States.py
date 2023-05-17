@@ -72,3 +72,4 @@ def add_state(name, id, initials, headquarter):
 
 
 #in the end, convert the states list to JSON format, the language options will be included:
+states_json = json.dumps(states)
