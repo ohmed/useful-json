@@ -22,4 +22,10 @@ def add_state(name, id, initials, headquarter):
     # Add the state to the list
     states.append(state)
 
-    
+# Add each state to the list
+add_state('Alabama', 'AL', 'Montgomery')
+add_state('Alaska', 'AK', 'Juneau')
+add_state('Arizona', 'AZ', 'Phoenix')
+add_state('Arkansas', 'AR', 'Little Rock')
+# ... and so on for all 50 states
+
