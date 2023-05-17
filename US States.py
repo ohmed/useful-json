@@ -55,5 +55,3 @@ state_data = {
 
 
 
-
-
