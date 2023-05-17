@@ -29,3 +29,6 @@ add_state('Arizona', 'AZ', 'Phoenix')
 add_state('Arkansas', 'AR', 'Little Rock')
 # ... and so on for all 50 states
 
+
+# Convert the states list to JSON format
+states_json = json.dumps(states)
