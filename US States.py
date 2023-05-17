@@ -9,8 +9,3 @@ state_data = {
     'date_updated': '2018-07-02',
 }
 
-
-
-
-
-
