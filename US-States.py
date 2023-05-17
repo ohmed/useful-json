@@ -37,20 +37,20 @@ states_json = json.dumps(states)
 # Print the JSON output
 print(states_json)
 
-You can customize this code to fit your specific needs, such as adding the 210 language options. To do so, you may want to consider adding an additional field to the state_data dictionary for the language options, such as a list of dictionaries that contain the language name and code for each option. Here's an example of how you might modify the state_data dictionary:
+#You can customize this code to fit your specific needs, such as adding the 210 language options. To do so, you may want to consider adding an additional field to the state_data dictionary for the language options, such as a list of dictionaries that contain the language name and code for each option. Here's an example of how you might modify the state_data dictionary:
 
-python
 
-state_data = {
-    'name': '',
-    'id': '',
-    'initials': '',
-    'headquarter': '',
-    'date_created': '1978-07-01',
-    'date_updated': '2018-07-02',
-    'language_options': [
-        {'name': 'English', 'code': 'en'},
-        {'name': 'Spanish', 'code': 'es'},
-        # ... and so on for all 210 languages
-    ],
+#state_data = {
+    #'name': '',
+    #'id': '',
+    #'initials': '',
+    #'headquarter': '',
+    #'date_created': '1978-07-01',
+    #'date_updated': '2018-07-02',
+    #'language_options': [
+    #    {'name': 'English', 'code': 'en'},
+    #    {'name': 'Spanish', 'code': 'es'},
+    #    # ... and so on for all 210 languages
+    #],
+#
 }
