@@ -33,3 +33,5 @@ add_state('Arkansas', 'AR', 'Little Rock')
 # Convert the states list to JSON format
 states_json = json.dumps(states)
 
+# Print the JSON output
+print(states_json)
