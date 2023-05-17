@@ -54,3 +54,6 @@ print(states_json)
     #],
 #
 }
+
+
+#in the add_state function, you can modify the state dictionary to include the language options:
