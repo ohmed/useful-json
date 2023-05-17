@@ -37,7 +37,7 @@
          "iata_code": "BBB",
          "icao_code": "BBBB",
          "country": "Country Name",
-         "city": "City Name",
+         "city": "City  Name",
          "timezone": "UTC+X",
          "terminal_info":[
             {
