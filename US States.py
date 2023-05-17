@@ -21,3 +21,5 @@ def add_state(name, id, initials, headquarter):
     state['headquarter'] = headquarter
     # Add the state to the list
     states.append(state)
+
+    
