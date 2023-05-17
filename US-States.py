@@ -57,3 +57,18 @@ print(states_json)
 
 
 #in the add_state function, you can modify the state dictionary to include the language options:
+
+
+
+def add_state(name, id, initials, headquarter):
+    # Create a new state dictionary with the given information
+    state = state_data.copy()
+    state['name'] = name
+    state['id'] = id
+    state['initials'] = initials
+    state['headquarter'] = headquarter
+    # Add the state to the list
+    states.append(state)
+
+
+#in the end, convert the states list to JSON format, the language options will be included:
