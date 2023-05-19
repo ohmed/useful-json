@@ -1,6 +1,6 @@
 {
     "flags": "-iE",
-     "patterns":
+    "patterns":
      [
             "file=",
             "document=",
