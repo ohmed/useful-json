@@ -1,7 +1,7 @@
 {
     "flags": "-iE",
-    "patterns": [
-    
+    "patterns":
+    [
     "template=",
     "preview=",
     "id=",
@@ -9,3 +9,6 @@
     "activity=",
     "name=",
     "content=",
+    "redirect="
+    ]
+}
